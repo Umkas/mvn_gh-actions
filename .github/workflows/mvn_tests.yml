@@ -1,4 +1,4 @@
-name mvn test
+name: mvn test
 on:
   push:
     branches: [ main, master ]
